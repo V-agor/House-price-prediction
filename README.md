@@ -1,13 +1,9 @@
 # 🏡 House Price Prediction
 
-A full machine learning project to predict house prices using Python.  
-Inspired by the tutorial: *“House Price Prediction in Python – Full Machine Learning Project”*.  
-
----
 
 ## 📌 Overview
 
-This project develops a machine learning model that predicts house prices based on various features (such as number of rooms, location, lot size, and more).  
+This project develops a machine learning model that predicts house prices based on various features, such as number of rooms, location, and lot size.  
 
 The workflow includes:
 
