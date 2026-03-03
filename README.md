@@ -26,4 +26,23 @@ A notebook is prefered over pythpn scripts as it allows us to  organize our work
 
 Another thing to note is depending on the size of the dataset you are working with your computer might not have the resorces to quickly process the data as needed. An alterntaive is opting for the cloud version of the the resource so to make use of powerflu cloud resources. I made use of Anaconda's JuptyerLab.
 
-The following python libraries 
+The following python libraries are a prerequisite to undertake this project:
+
+-numpy
+
+-pandas
+
+-matplotlib
+
+-seaborn
+
+-scikit-learn
+
+To install librabries use the command: pip install
+
+Lets Begin.
+
+The dataset we are using is the 'California Housing Prices' dataset from kaggle. The data is from a 1990 California Census
+
+Fields from the dataset:
+
