@@ -47,9 +47,12 @@ Lets Begin.
 The dataset we are using is the 'California Housing Prices' dataset from kaggle. The data is from a 1990 California Census
 
 Field to note from the dataset: medianhousevalue
+
 It is our target variable. This sugguests a regression task where we will use all other attributes to predict the target attribute
 
-Regression tasks are used to predict numerical output by using one or more input predicctor variables.
+Regression tasks are used to predict numerical output by using one or more input predictor variables. 
+
+The rest of the project undertaking is stipulated on he ipynb file
 
 
 
