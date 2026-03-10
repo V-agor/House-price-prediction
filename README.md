@@ -38,11 +38,17 @@ The following python libraries are a prerequisite to undertake this project:
 
 -scikit-learn
 
+They are the libraries most synoymous with Data Science 
+
 To install librabries use the command: pip install
 
 Lets Begin.
 
 The dataset we are using is the 'California Housing Prices' dataset from kaggle. The data is from a 1990 California Census
 
-Fields from the dataset:
+Field to note from the dataset: medianhousevalue
+ It is our target variable. This sugguests a regression problem where we will use all other attributes to predict the target attribute
+
+
+
 
