@@ -14,9 +14,9 @@ We will:
 
 4.Train a model
 
-5.Evaluate the model
+5. and Evaluate the model
 
-Technolgies and tools:
+The Technolgies and tools used are:
 
 -JupyterLabs( any ipython notebook will suffice)
 
@@ -24,7 +24,7 @@ Technolgies and tools:
 
 A notebook is prefered over pythpn scripts as it allows us to  organize our workflow. You will require to set up an environment before accessing a notebook however.
 
-Another thing to note is depending on the size of the dataset you are working with your computer might not have the resorces to quickly process the data as needed. An alterntaive is opting for the cloud version of the the resource so to make use of powerflu cloud resources. I made use of Anaconda's JuptyerLab.
+Another thing to note is depending on the size of the dataset you are working with your computer might not have the resorces to quickly process the data as needed. An alterntaive is opting for the cloud version of the the notebook so to make use of powerful cloud resources. I made use of Anaconda's JuptyerLab.
 
 The following python libraries are a prerequisite to undertake this project:
 
@@ -38,7 +38,7 @@ The following python libraries are a prerequisite to undertake this project:
 
 -scikit-learn
 
-They are the libraries most synoymous with Data Science 
+They are the libraries most synoymous with any Data Science undertaking
 
 To install librabries use the command: pip install
 
@@ -47,7 +47,13 @@ Lets Begin.
 The dataset we are using is the 'California Housing Prices' dataset from kaggle. The data is from a 1990 California Census
 
 Field to note from the dataset: medianhousevalue
- It is our target variable. This sugguests a regression problem where we will use all other attributes to predict the target attribute
+It is our target variable. This sugguests a regression task where we will use all other attributes to predict the target attribute
+
+Regression tasks are used to predict numerical output by using one or more input predicctor variables.
+
+
+
+ 
 
 
 
